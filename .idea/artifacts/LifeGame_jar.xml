@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LifeGame:jar">
+    <output-path>H:/集美大学/课件/人工智能</output-path>
+    <root id="archive" name="LifeGame.jar">
+      <element id="module-output" name="LifeGame" />
+    </root>
+  </artifact>
+</component>
