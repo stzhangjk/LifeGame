@@ -4,7 +4,7 @@ import java.util.List;
 public class Cell {
 
     private int x;
-    private int y;
+    private int y = 0;
     private State state;
     private List<Cell> neighbors;
 
